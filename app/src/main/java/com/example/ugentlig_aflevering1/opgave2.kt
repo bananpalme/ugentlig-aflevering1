@@ -7,6 +7,7 @@ fun main() {
 
     println(max)
     println(min)
+    // For loop ville være meget nemmere, men nu har jeg lavet dette
 }
 
 fun getMax(a:Int,b:Int,c:Int): Int {
